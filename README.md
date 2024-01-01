@@ -2,7 +2,7 @@
 
 ## I'm Juan Strategic Logistics Consultant @ Lidl ES. 
 
-# 🌱 I’m currently learning python for develops project in data science, machine learning and AI 🤖
+ 🌱 I’m currently learning python for develops project in data science, machine learning and AI 🤖
 
 <!--
 **jimenezcarrero/jimenezcarrero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
