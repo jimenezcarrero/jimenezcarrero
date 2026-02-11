@@ -1,6 +1,6 @@
 ### Hello 👋
 
-## I'm Juan Strategic Logistics Consultant @ Lidl ES. 
+## I'm Juan Software Engineer @ Schwarz Digits. 
 
 🌱 Currently learning python for develops project with data science, machine learning and AI 🤖
 
