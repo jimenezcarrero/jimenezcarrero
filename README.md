@@ -78,6 +78,9 @@ practical, simple and focused on real operational impact.
 CookAIware:
 https://huggingface.co/spaces/jimenezcarrero/cookAIware
 
+Reachy Mini Skill for Codex:
+https://github.com/jimenezcarrero/reachy-mini-apps-skill
+
 LinkedIn:
 https://linkedin.com/in/jimenezcarrero
   
